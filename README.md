@@ -1,4 +1,5 @@
 <br clear="both">
+<img align="right" height="600" src="https://images2.imgbox.com/5b/c6/0f8NYqWk_o.png"  />
 <h1 align="left">Hey, nice to meet you! I am Taíse.</h1>
 <p align="left">🌍  I'm based in Porto Alegre/RS, in the south of Brazil<br>🖥️ Currently I'm a E2E software engineer intern @ Dell Technologies<br>🔭 I’m currently working on a cat café application.<br>🌱 I’m currently learning Selenium,<br>🧠  I'm learning Selenium, C#, automation testing<br>🤔 I’m looking for help with automation testing<br>💬 Ask me about blabla<br>📫 How to reach me email<br>⚡ Fun fact: I collect tarot decks and my first repository here was a tarot <br>reading simulation (which I have to improve someday…)</p>
 
@@ -65,7 +66,7 @@
 
 ###
 
-<img align="right" height="500" src="https://images2.imgbox.com/5b/c6/0f8NYqWk_o.png"  />
+
 
 ###
 
