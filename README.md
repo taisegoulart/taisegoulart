@@ -1,17 +1,28 @@
 <br clear="both">
-
-<h1 align="left">Hey, nice to meet you! I am Taíse.</h1>
-<img align="right" height="500" src="https://images2.imgbox.com/55/19/qmAlBLSz_o.png" />
-<p align="left">🌍  I'm based in Porto Alegre/RS, in the south of Brazil<br>🖥️ Currently I'm a E2E software engineer intern @ Dell Technologies<br>🔭 I’m currently working on a cat café application.<br>🌱 I’m currently learning Selenium,<br>🧠  I'm learning Selenium, C#, automation testing<br>🤔 I’m looking for help with automation testing<br>💬 Ask me about blabla<br>📫 How to reach me email<br>⚡ Fun fact: I collect tarot decks and my first repository here was a tarot <br>reading simulation (which I have to improve someday…)</p>
+<h1 align="left">Hey, nice to meet you! I am Taíse~ (⁠⁠^ω⁠^⁠⁠)⁠ﾉ</h1>
+<img align="right" height="400" src="https://images2.imgbox.com/55/19/qmAlBLSz_o.png" />
+<p align="left">🌎 I'm based in Porto Alegre/RS, in the south of Brazil;<br>💻 Currently I'm a <s>bug hunter</s> E2E software QA intern @ <a href="https://github.com/dell">Dell Technologies</a>;<br>
+📚 I study Technology in Internet Systems @ <a href="http://poa.ifrs.edu.br/IFRS">IFRS Campus Porto Alegre</a>;<br>👾 At the moment I'm working on a <a href="https://github.com/taisegoulart/CatCafe">cat café</a> app;<br>🧠 I’m learning <b>Selenium</b>, <b>C#</b> and <b>Automation Testing</b>. Also, nowadays I'm practicing to develop applications using <b>Java + <a href="https://quarkus.io/">Quarkus</a></b> framework for my college's tasks;<br>💡 I'm an <i>UX design enthusiast</i> and I always try to have an user-centered approach, applying some UX and Design Thinking perspectives on my daily tasks;<br>💬 I speak fluently in Portuguese and English, and I also know a bit of Japanese;<br>💌 You can reach me via <a href="mailto:taise.m.goulart@gmail.com">email</a> or can send me a message on  <a href="https://www.linkedin.com/in/taisegoulart/">LinkedIn</a>;<br>☕ I'm really into cappuccinos, lattes and tea in general, and you'll almost always find me coding with a cup of coffee or black tea (maybe both);<br>💖 I collect tarot decks and my first repository here was a tarot reading site (which I have to improve someday…)~</p>
 
 ###
+<details>
+  <summary><b>✨ 2023 goals</b></summary>
+  <ul>
+    <li>develop some automation testing scripts;</li>
+    <li>improve my knowledge regarding software tests on my daily job;</li>
+    <li>continue learning UX when I have some free time;</li>
+    <li>organize my repositories here, adding a read.me file for the most important ones;</li>
+    <li>try to be more active as a professional on social media;</li>
+    <li>finish some Udemy courses...</li>
+  </ul>
+</details>
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">Tech stack that I'm using and learning:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />--->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
@@ -56,18 +67,14 @@
   <a href="https://instagram.com/taise_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/isetrix" target="_blank">
+  <!--<a href="https://www.twitch.tv/isetrix" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-  </a>
+  </a>--->
 </div>
 
 ###
 
-<h2 align="left">Github Stats:</h2>
-
-###
-
-
+<h2 align="left">Github stats:</h2>
 
 ###
 
@@ -78,7 +85,8 @@
 </div>
 
 ###
-<h3 align="left"> What's on my earphones while coding? ~♪ </h3>
+---
+<h3 align="center"> What's on my earphones while coding? ~♪ </h3>
 <div align="center">
   
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=taise_)](https://open.spotify.com/user/taise_)
