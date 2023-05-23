@@ -1,6 +1,7 @@
 <br clear="both">
-<img align="right" height="600" src="https://images2.imgbox.com/5b/c6/0f8NYqWk_o.png"  />
+
 <h1 align="left">Hey, nice to meet you! I am Taíse.</h1>
+<img align="right" height="500" src="https://images2.imgbox.com/55/19/qmAlBLSz_o.png" />
 <p align="left">🌍  I'm based in Porto Alegre/RS, in the south of Brazil<br>🖥️ Currently I'm a E2E software engineer intern @ Dell Technologies<br>🔭 I’m currently working on a cat café application.<br>🌱 I’m currently learning Selenium,<br>🧠  I'm learning Selenium, C#, automation testing<br>🤔 I’m looking for help with automation testing<br>💬 Ask me about blabla<br>📫 How to reach me email<br>⚡ Fun fact: I collect tarot decks and my first repository here was a tarot <br>reading simulation (which I have to improve someday…)</p>
 
 ###
@@ -15,12 +16,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />--->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="52" alt="selenium logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="40" width="52" alt="jenkins logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   
 </div>
@@ -77,18 +78,20 @@
 </div>
 
 ###
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=taise_)](https://open.spotify.com/user/taise_)
-
-###
-
+<h3 align="left"> What's on my earphones while coding? ~♪ </h3>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=taisegoulart.taisegoulart&"  />
+  
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=taise_)](https://open.spotify.com/user/taise_)
+  
 </div>
 
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taisegoulart&icon=3&color=5)](https://visitcount.itsvg.in)
+<div align="center">
+<!-- Start of CuterCounter Code -->
+<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hvxnfdac&nd=6&style=109" border="0" alt="website counter"></a>
+<!-- End of CuterCounter Code -->
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--Created with the help of (  https://profile-readme-generator.com/ ) -->
